@@ -1,2 +1,2 @@
 echo "Pull the code"
-cal
+echo "Jenkins worked successfully"
